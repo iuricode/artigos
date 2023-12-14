@@ -1,0 +1,45 @@
+# Grid de 8 pontos uma técnica que torna seu projeto escalável
+
+![Banner da postagem](images/grid-de-8-pontos-uma-tecnica-que-tem-sido-amplamente-utilizada-na-ti.png)
+
+Se você é um designer ou desenvolvedor, talvez já tenha ouvido o termo sistema de grid. Neste artigo, discutirei sobre o uso dos sistemas de grid de 8 pontos. Porque o espaçamento com 8 pontos ajuda o designer e o desenvolvedor a manter um projeto consistente e escalável.
+
+## O que é Grid de 8 pontos
+
+O grid de 8 pontos é uma técnica que tem sido amplamente utilizada no mundo do design e da programação nos últimos anos. O grid de 8 pontos é quando usamos múltiplos de 8 para definir tanto o espaçamento, quanto o tamanho dos elementos da página em que estamos construindo.
+
+A utilização de números como 8 para dimensionar e espaçar elementos torna o dimensionamento para uma ampla variedade de dispositivos. Além disso, a maioria dos tamanhos de tela populares é divisível por 8, o que facilita o ajuste. O princípio do grid de 8 pontos é usar múltiplos de 8 para layout, dimensões, preenchimento e margem dos elementos.
+
+## Grid de 8 pontos na prática
+
+Utilizar o grid de 8 pontos em espaçamentos nos projetos é tão simples quanto parece. Simplesmente vai fazer com que a distância de um elemento para o outro seja múltipla de 8.
+
+Geralmente usamos uma certa distância para espaçamento entre elementos que fazem parte do mesmo conteúdo e o dobro desse espaçamento para separar novos conteúdos. Veja no exemplo abaixo:
+
+![Exemplo Grid 8 pontos](images/grid8pontos.svg)
+
+---
+
+### Momento anúncio 😁🤘
+
+Quer aprender desenvolvimento frontend do zero?
+
+O [eFront](https://iuricode.com/efront/) é um ebook criado por mim onde eu ensino **HTML, CSS, JavaScript, Sass, Bootstrap, React, React Router, TypeScript, styled-components, Tailwind CSS, React Hook Form, Radix UI, Storybook, Cypress e Next.js**. Tudo isso é ensinado com uma didática simples que até quem está iniciando na área consegue aprender a utilizar cada tecnologia do ebook.
+
+![Banner do eFront](images/efront.png)
+
+Mais de **9.000 pessoas já compraram**, você vem comigo?
+
+👉 **[Acessar o link da venda](https://iuricode.com/efront/)**
+
+---
+
+## Conclusão
+
+O grid de 8 pontos é uma técnica poderosa que pode ajudar designers e desenvolvedores a criar projetos consistentes e organizados. Utilizando grid de 8 pontos, é fácil manter a consistência no design, garantir que os elementos estejam equilibrados entre sí. Em resumo, a utilização do grid de 8 pontos é essencial para qualquer projeto de design ou desenvolvimento que exija organização e harmonia.
+
+---
+
+E aí, gostou da postagem? Me manda um feedback no [Instagram](https://www.instagram.com/iuricode/) para melhorar cada vez mais! 😁
+
+Esse projeto é open source, então basta adicionar uma nova feature e abrir um pull-request. Dessa maneira você irá contribuir com a comunidade.
